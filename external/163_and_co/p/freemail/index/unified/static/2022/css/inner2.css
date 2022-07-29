@@ -1,0 +1,21 @@
+.iframeInner .auto-1658807166921-parent {
+    position: relative
+}
+
+.iframeInner .auto-1658807166921 {
+    position: absolute;
+    border: 1px solid #aaa;
+    background: #fff;
+    text-align: left;
+    visibility: hidden
+}
+
+.iframeInner .auto-1658807166921 .zitm {
+    height: 20px;
+    line-height: 20px;
+    cursor: default
+}
+
+.iframeInner .auto-1658807166921 .js-selected {
+    background: #1257F9
+}
